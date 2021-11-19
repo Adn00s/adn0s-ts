@@ -1,0 +1,1 @@
+multipass launch --network en0 --network name=bridge0,mode=manual
